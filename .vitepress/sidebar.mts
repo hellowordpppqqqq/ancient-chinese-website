@@ -1,7 +1,7 @@
 import { glob } from 'glob';
 import path from 'path';
 
-const mdFiles = glob.sync('../docs/**/*.md');
+const mdFiles = glob.sync('./docs/**/*.md');
 
 export const sidebar = mdFiles.map(filePath => {
     const relativePath = path.relative('docs', filePath).replace('.md', '');
