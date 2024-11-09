@@ -5,7 +5,7 @@ const base = process.env.NODE_ENV === 'development' ? '/' : '/ancient-chinese/'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base,
-  outDir: '../dist',
+  outDir: './dist',
   title: "古汉语词典在线网站",
   description: "一个古汉语在线网站",
   themeConfig: {
