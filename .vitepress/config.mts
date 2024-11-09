@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 import { sidebar } from './sidebar.mts'
 
-const base = process.env.NODE_ENV === 'development' ? '/' : '/ancient-chinese/'
+const base = process.env.NODE_ENV === 'development' ? '/' : '/ancient-chinese-website/'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base,
