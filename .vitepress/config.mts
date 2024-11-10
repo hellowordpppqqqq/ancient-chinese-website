@@ -8,6 +8,10 @@ export default defineConfig({
   outDir: './dist',
   title: "古汉语词典在线网站",
   description: "一个古汉语在线网站",
+  head: [
+    // 引入自定义的 CSS 文件
+    ['link', { rel: 'stylesheet', href: './style.css' }]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
