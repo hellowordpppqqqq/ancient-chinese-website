@@ -9,3 +9,7 @@ search: true  # 或 false
 ## 哀
 
 (āi)：① 悲痛，伤心。《[离骚-屈原](https://baike.baidu.com/item/%E7%A6%BB%E9%AA%9A/1045?fr=aladdin)》：“~众芳之芜秽（wú huì）。”（芳：香草。芜秽：荒芜。）㊕ 父母之丧。《[宋书·张敷传](https://baike.baidu.com/item/%E5%AE%8B%E4%B9%A6/1995398?fr=aladdin)》：“居~毁灭，孝道淳至。”➁ 怜悯，同情。《[韩非子·用人](https://baike.baidu.com/item/%E9%9F%A9%E9%9D%9E%E5%AD%90%C2%B7%E7%94%A8%E4%BA%BA/19828835)》：“忧悲不~怜。”【辩】哀，戚，悲，悼。四字都有悲伤的意思。但“戚”字一般是表示忧苦、悲哀；“哀”与“悲”有怜悯、同情的意思，“哀”的感情色彩要重些；“悼”则是“悲痛”的意思，多用于对死者表示沉痛悼念。
+
+## 埃
+
+(āi)：① 尘土。《[荀子·劝学](https://baike.baidu.com/item/%E5%8A%9D%E5%AD%A6/1055?fr=aladdin)》：“上食~土，下饮黄泉。”
