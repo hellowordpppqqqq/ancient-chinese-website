@@ -19,7 +19,7 @@ export default defineConfig({
     sidebar,
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/eveningwater' }
+      { icon: 'github', link: 'https://github.com/eveningwater/ancient-chinese-website/' }
     ]
   }
 })
