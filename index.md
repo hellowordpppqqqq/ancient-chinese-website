@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 开始
-      link: /docs/A/A/
+      link: /docs/A/a/
 
 features:
   - title: 说明1
