@@ -180,9 +180,17 @@ search: true # 或 false
 
 (ài)：
 
+➀ 狭窄，狭小。《[左传·昭公三年](https://baike.baidu.com/item/%E6%99%AF%E5%85%AC%E6%AC%B2%E6%9B%B4%E6%99%8F%E5%AD%90%E4%B9%8B%E5%AE%85/8411980?fr=ge_ala)》：“子之宅近市，湫（jiǎo）～嚣尘，不可以居。”（湫：低下，低洼。嚣尘：噪杂多尘。）
+
+➁ 险要的地方。 左思《[蜀都赋(三都赋之一)](https://baike.baidu.com/item/%E4%B8%89%E9%83%BD%E8%B5%8B/15088500?fromModule=lemma_inlink)》：“一人守～，万夫莫向。”（向：接近。）
+
+➂（è）厄。通“阨（è）”。阻塞，阻止。《[战国策·楚策二](https://baike.baidu.com/item/%E6%A5%9A%E8%A5%84%E7%8E%8B%E4%B8%BA%E5%A4%AA%E5%AD%90%E4%B9%8B%E6%97%B6/668362?fr=ge_ala)》：“太子辞于齐王而归，齐王～之。” 引穷困，窘迫。《[荀子·大略](https://baike.baidu.com/item/%E9%9A%98%E7%A9%B7/9640117?fr=ge_ala)》：“君子～穷而不失。”（不失：指不改变信仰。）
+
 ## 餲
 
 (ài)：
+
+食物经久而变味。《[论语·乡党](https://baike.baidu.com/item/%E8%AE%BA%E8%AF%AD%C2%B7%E4%B9%A1%E5%85%9A/9937507?fr=ge_ala)》：“食饐（yì，食字旁又作饣，因此该字也可以简写）而餲，鱼馁（něi）而肉败，不食。”（饐：腐臭。馁：腐烂。）
 
 ## 安
 
