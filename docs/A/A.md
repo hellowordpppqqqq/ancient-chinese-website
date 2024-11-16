@@ -172,6 +172,10 @@ search: true # 或 false
 
 (ài)：
 
+昏暗。谢瞻《[王抚军庾西阳集别](https://baike.baidu.com/item/%E7%8E%8B%E6%8A%9A%E5%86%9B%E5%BA%BE%E8%A5%BF%E9%98%B3%E9%9B%86%E5%88%AB%E6%97%B6%E4%B8%BA%E8%B1%AB%E7%AB%A0%E5%A4%AA%E5%AE%88%E5%BA%BE%E8%A2%AB%E5%BE%B5%E8%BF%98%E4%B8%9C%E8%AF%97/50569777?fr=ge_ala)》诗：“夕阴～平陆。” [暧暧]昏暗不明的样子。屈原《离骚》：“时～～其将罢（pí）兮（时间已晚，人也感到疲倦了。罢通“疲”。）
+
+> 备注: 时～～其将罢（pí）兮的翻译来自古汉语常用字字典第10版。[百度汉语](https://hanyu.baidu.com/shici/detail?anchor=yiwen&from=aladdin&pid=9ad3463ac8944527947d959b7c8b1f8e)翻译成：“日色渐暗时间已经晚了。”
+
 ## 隘
 
 (ài)：
