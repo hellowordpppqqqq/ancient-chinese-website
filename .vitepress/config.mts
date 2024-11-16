@@ -24,6 +24,10 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/eveningwater/ancient-chinese-website/' }
-    ]
+    ],
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 2014-present eveningwater(夕水)'
+    }
   }
 })
