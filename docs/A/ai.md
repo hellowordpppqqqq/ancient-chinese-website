@@ -6,7 +6,7 @@ search: true # 或 false
 
 (āi)：
 
-① 悲痛，伤心。《[离骚-屈原](https://baike.baidu.com/item/%E7%A6%BB%E9%AA%9A/1045?fr=aladdin)》：“～众芳之芜秽（wú huì）。”（芳：香草。芜秽：荒芜。）㊕ 父母之丧。《[宋书·张敷传](https://baike.baidu.com/item/%E5%AE%8B%E4%B9%A6/1995398?fr=aladdin)》：“居～毁灭，孝道淳至。”
+➀ 悲痛，伤心。《[离骚-屈原](https://baike.baidu.com/item/%E7%A6%BB%E9%AA%9A/1045?fr=aladdin)》：“～众芳之芜秽（wú huì）。”（芳：香草。芜秽：荒芜。）㊕ 父母之丧。《[宋书·张敷传](https://baike.baidu.com/item/%E5%AE%8B%E4%B9%A6/1995398?fr=aladdin)》：“居～毁灭，孝道淳至。”
 
 ➁ 怜悯，同情。《[韩非子·用人](https://baike.baidu.com/item/%E9%9F%A9%E9%9D%9E%E5%AD%90%C2%B7%E7%94%A8%E4%BA%BA/19828835)》：“忧悲不～怜。”
 
@@ -16,13 +16,13 @@ search: true # 或 false
 
 (āi)：
 
-① 尘土。《[荀子·劝学](https://baike.baidu.com/item/%E5%8A%9D%E5%AD%A6/1055?fr=aladdin)》：“上食～土，下饮黄泉。”
+➀ 尘土。《[荀子·劝学](https://baike.baidu.com/item/%E5%8A%9D%E5%AD%A6/1055?fr=aladdin)》：“上食～土，下饮黄泉。”
 
 ## 欸
 
 (āi)：
 
-① 应声。《[方言](http://www.baike.com/wiki/%E3%80%8A%E6%96%B9%E8%A8%80%E3%80%8B)》十：“～，殹（yī）上言下，然也。”
+➀ 应声。《[方言](http://www.baike.com/wiki/%E3%80%8A%E6%96%B9%E8%A8%80%E3%80%8B)》十：“～，殹（yī）上言下，然也。”
 
 ➁ 叹息。《[九章·涉江-屈原](https://baike.baidu.com/item/%E4%B9%9D%E7%AB%A0%C2%B7%E6%B6%89%E6%B1%9F/4309935?fr=aladdin)》：“乘鄂渚而反顾兮，～秋冬之绪风。”
 
@@ -32,13 +32,13 @@ search: true # 或 false
 
 (ái)：
 
-① 痴愚。《[汉书·息夫躬传](https://baike.baidu.com/item/%E6%B1%89%E4%B9%A6/363840?fr=aladdin)》十：“外有直项之名，内实～不晓政事。（直项：刚直。）”
+➀ 痴愚。《[汉书·息夫躬传](https://baike.baidu.com/item/%E6%B1%89%E4%B9%A6/363840?fr=aladdin)》十：“外有直项之名，内实～不晓政事。（直项：刚直。）”
 
 ## 硙
 
 ái：
 
-① wèi（位）。石磨。《[急就篇-史游](https://baike.baidu.com/item/%E6%80%A5%E5%B0%B1%E7%AF%87/2172280?fr=aladdin)》卷三：“碓（duì）～扇隤（tuí）簸扬。”颜师古注：“～所以䃺（mò）也，亦谓之䃀（cuì）。古者雍父作春，鲁班作～。”（隤：坠。䃺：“磨”的异体。庸夫、鲁班：人名。）
+➀ wèi（位）。石磨。《[急就篇-史游](https://baike.baidu.com/item/%E6%80%A5%E5%B0%B1%E7%AF%87/2172280?fr=aladdin)》卷三：“碓（duì）～扇隤（tuí）簸扬。”颜师古注：“～所以䃺（mò）也，亦谓之䃀（cuì）。古者雍父作春，鲁班作～。”（隤：坠。䃺：“磨”的异体。庸夫、鲁班：人名。）
 
 ➁ 用为动词。磨（mó）。《[太玄经·疑-扬雄](https://baike.baidu.com/item/%E5%A4%AA%E7%8E%84%E7%BB%8F/1260814?fr=aladdin)》：“阴阳相～，物咸雕离。”（咸：全，都。）
 
@@ -48,7 +48,7 @@ search: true # 或 false
 
 (ái)：
 
-① 洁白。《[白头吟-汉乐府诗](https://baike.baidu.com/item/%E7%99%BD%E5%A4%B4%E5%90%9F/6866957?fr=aladdin)》：“～如山上雪，皎若云间月。”
+➀ 洁白。《[白头吟-汉乐府诗](https://baike.baidu.com/item/%E7%99%BD%E5%A4%B4%E5%90%9F/6866957?fr=aladdin)》：“～如山上雪，皎若云间月。”
 
 [皑皑]形容霜雪洁白。《[遂初赋-刘歆](https://baike.baidu.com/item/%E9%81%82%E5%88%9D%E8%B5%8B/10058496?fr=aladdin)》：“漂积雪之～～兮。”
 
@@ -56,7 +56,7 @@ search: true # 或 false
 
 (ǎi)：
 
-① 品行不正的人。《[说文解字](https://baike.baidu.com/item/%E8%AF%B4%E6%96%87%E8%A7%A3%E5%AD%97/6180?fr=aladdin)-母部》：“～士之无行者。”
+➀ 品行不正的人。《[说文解字](https://baike.baidu.com/item/%E8%AF%B4%E6%96%87%E8%A7%A3%E5%AD%97/6180?fr=aladdin)-母部》：“～士之无行者。”
 
 ➁ 人名。战国秦时有嫪（lào）毐。
 
@@ -64,7 +64,7 @@ search: true # 或 false
 
 (ǎi)：
 
-① 草木茂盛的样子。《[汉书-扬雄传](https://baike.baidu.com/item/%E6%B1%89%E4%B9%A6%C2%B7%E6%89%AC%E9%9B%84%E4%BC%A0/14134265?fr=aladdin)》：“郁萧条其幽～兮,滃（wěng，云气涌起。）泛沛以丰隆。”
+➀ 草木茂盛的样子。《[汉书-扬雄传](https://baike.baidu.com/item/%E6%B1%89%E4%B9%A6%C2%B7%E6%89%AC%E9%9B%84%E4%BC%A0/14134265?fr=aladdin)》：“郁萧条其幽～兮,滃（wěng，云气涌起。）泛沛以丰隆。”
 
 [蔼蔼]：1. 草木茂盛。[束皙](https://baike.baidu.com/item/%E6%9D%9F%E7%9A%99/9164826?fr=aladdin)《补亡诗》之五：“瞻彼崇丘，其林～～。”
 
@@ -90,7 +90,7 @@ search: true # 或 false
 
 (ài)：
 
-① 多年生草本植物，叶子有香气，可入药，内服可做止血剂，又供灸法上用。也叫艾蒿。
+➀ 多年生草本植物，叶子有香气，可入药，内服可做止血剂，又供灸法上用。也叫艾蒿。
 
 《[诗经·王风·采葛](https://baike.baidu.com/item/%E5%9B%BD%E9%A3%8E%C2%B7%E7%8E%8B%E9%A3%8E%C2%B7%E9%87%87%E8%91%9B/2427436?fr=aladdin)》：“彼采～兮，一日不见，如三岁兮。”
 
