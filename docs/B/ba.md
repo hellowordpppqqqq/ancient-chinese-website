@@ -21,3 +21,11 @@ search: true # 或 false
 ➁ 芭蕉。张希复《[赠诸上人联句](https://www.hao86.com/shici_view_9a3a9a43ac9a3a9a/)》：“乘兴书～叶，闲来入豆房。”
 
 ➂ pā。通“葩”。花。《[大戴礼记·夏小正](https://baike.baidu.com/item/%E5%A4%8F%E5%B0%8F%E6%AD%A3/729374?fr=ge_ala)》：“拂桐～。”（拂：拂拭。）
+
+## 豝
+
+（bā）：
+
+## 茇
+
+## 拔
