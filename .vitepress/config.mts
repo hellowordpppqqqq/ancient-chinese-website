@@ -10,7 +10,10 @@ export default defineConfig({
   description: "一个古汉语在线网站",
   head: [
     // 引入自定义的 CSS 文件
-    ['link', { rel: 'stylesheet', href: './style.css' }]
+    ['link', { rel: 'stylesheet', href: './style.css' }],
+    [
+      'script', { type: 'text/javascript', src: 'https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js' }
+    ]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
