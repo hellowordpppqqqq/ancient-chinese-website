@@ -1,5 +1,5 @@
 node_modules
 build
 gh-pages
-/dist
+/cache/**/*
 /cache/*
