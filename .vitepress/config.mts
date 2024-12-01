@@ -19,6 +19,9 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
+      { text: '大学课程', link: 'https://eveningwater.github.io/undergraduate-course/' },
+      { text: '个人小说', link: 'https://www.eveningwater.com/novel-website/index.html' },
+      { text: '个人诗词', link: 'https://eveningwater.github.io/my-poem-website' },
       { text: '诗意出生', link: 'https://www.eveningwater.com/birth-poem/index.html' },
     ],
     search: {
@@ -31,7 +34,7 @@ export default defineConfig({
     ],
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2014-present eveningwater(夕水)'
+      copyright: 'Copyright © 2024-present eveningwater(夕水)'
     }
   }
 })
