@@ -19,6 +19,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
+      { text: '诗意出生', link: 'https://www.eveningwater.com/birth-poem/index.html' },
     ],
     search: {
       provider: 'local',
