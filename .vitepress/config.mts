@@ -19,6 +19,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
+      { text: '在线字典', link: '/docs/A/a' },
       { text: '文言文示例', link: '/example/进学解' },
       { text: '大学课程', link: 'https://eveningwater.github.io/undergraduate-course/' },
       { text: '个人小说', link: 'https://www.eveningwater.com/novel-website/index.html' },
