@@ -7,7 +7,7 @@ import { DefaultTheme } from 'vitepress';
  */
 const mdWordFiles = glob.sync('./docs/**/*.md');
 
-const mdExampleFiles = glob.sync('./example/*.md');
+const mdExampleFiles = glob.sync('./example/**/*.md');
 
 const createSidebar = (files: string[], key = 'docs') => {
     return files.reduce<DefaultTheme.Sidebar>((acc, filePath) => {
