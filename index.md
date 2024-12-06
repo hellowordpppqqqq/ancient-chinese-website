@@ -11,7 +11,7 @@ hero:
       link: /docs/A/a
     - theme: alt
       text: 文言文示例
-      link: /example/进学解
+      link: /example/韩愈/进学解
 
 features:
   - title: 说明1

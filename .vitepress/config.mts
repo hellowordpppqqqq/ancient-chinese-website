@@ -1,7 +1,9 @@
 import { defineConfig } from 'vitepress'
 import { sidebar } from './sidebar.mts'
 
-const base = process.env.NODE_ENV === 'development' ? '/' : '/ancient-chinese-website/'
+// github pages: /ancient-chinese-website/
+// vercel.com: /
+const base = process.env.NODE_ENV === 'development' ? '/' : '/'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base,
@@ -20,7 +22,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '在线字典', link: '/docs/A/a' },
-      { text: '文言文示例', link: '/example/进学解' },
+      { text: '文言文示例', link: '/example/韩愈/进学解' },
       { text: '大学课程', link: 'https://eveningwater.github.io/undergraduate-course/' },
       { text: '个人小说', link: 'https://www.eveningwater.com/novel-website/index.html' },
       { text: '个人诗词', link: 'https://eveningwater.github.io/my-poem-website' },
