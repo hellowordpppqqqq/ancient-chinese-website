@@ -3,7 +3,7 @@ import { sidebar } from './sidebar.mts'
 
 // github pages: /ancient-chinese-website/
 // vercel.com: /
-const base = process.env.NODE_ENV === 'development' ? '/' : '/'
+const base = process.env.NODE_ENV === 'development' ? '/' : '/ancient-chinese-website/'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base,
