@@ -1,5 +1,5 @@
 node_modules
 build
 gh-pages
-/cache/**/*
-/cache/*
+.vitepress/cache/**/*
+.vitepress/cache/*
