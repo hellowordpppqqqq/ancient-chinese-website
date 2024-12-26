@@ -13,3 +13,5 @@ macOS 支持 Unicode 输入，因此你可以通过 Unicode 来直接插入拼�
 
 > 参考地址： https://www.gushiwen.cn/
 > 参考字典： 古汉语常用字字典第10版
+
+➀➁➂➃➄➅➆➇➈➉
