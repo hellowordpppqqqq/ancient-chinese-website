@@ -27,6 +27,7 @@ export default defineConfig({
       { text: '个人小说', link: 'https://www.eveningwater.com/novel-website/index.html' },
       { text: '个人诗词', link: 'https://eveningwater.github.io/my-poem-website' },
       { text: '诗意出生', link: 'https://www.eveningwater.com/birth-poem/index.html' },
+      { text: '识典古籍', link: 'https://www.shidianguji.com/' },
     ],
     search: {
       provider: 'local',
