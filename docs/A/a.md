@@ -12,7 +12,7 @@ search: true # 或 false
 
 ➂ ē。屋檐。《[古诗十九首·西北有高楼](../../example//古诗十九首/西北有高楼.md)》：“～阁三重阶。”（阁：楼阁。阶：台阶。）
 
-➃ ē。偏袒，迎合。《[韩非子·有度](https://baike.baidu.com/item/%E9%9F%A9%E9%9D%9E%E5%AD%90%C2%B7%E6%9C%89%E5%BA%A6/19831199?fr=aladdin)》：“法不～贵。”（贵：指有权势的人。）成语有“刚直不阿、阿谀逢迎”。
+➃ ē。偏袒，迎合。《[韩非子·有度](../../example/韩非/韩非子·有度.md)》：“法不～贵。”（贵：指有权势的人。）成语有“刚直不阿、阿谀逢迎”。
 
 ➄ 名词词头。多用于亲属名称或人名的前面。《[木兰诗](https://baike.baidu.com/item/%E6%9C%A8%E5%85%B0%E8%AF%97/1307816?fr=aladdin)》：“～姊闻妹来。《[三国志·魏书·武帝纪](https://baike.baidu.com/item/%E4%B8%89%E5%9B%BD%E5%BF%97%C2%B7%E9%AD%8F%E4%B9%A6%C2%B7%E6%AD%A6%E5%B8%9D%E7%BA%AA/14697473)》斐注引《[曹瞒传](https://baike.baidu.com/item/%E6%9B%B9%E7%9E%92%E4%BC%A0/4856624?fr=aladdin)》：“太祖一名吉利，小字～瞒。”
 
