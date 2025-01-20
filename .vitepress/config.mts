@@ -13,6 +13,8 @@ export default defineConfig({
   head: [
     // 引入自定义的 CSS 文件
     ['link', { rel: 'stylesheet', href: `${base}style.css` }],
+    // 字节字体样式文件
+    ['link', { rel: 'stylesheet', href: `https://lf3-static.bytednsdoc.com/obj/eden-cn/ipsaulpjuh_yzj_zlp/ljhwZthlaukjlkulzlp/sy-fonts/css/font_v2.css` }],
     [
       'script', { type: 'text/javascript', src: 'https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js' }
     ]
