@@ -174,4 +174,4 @@ search: true # 或 false
 
 (ài)：
 
-食物经久而变味。《[论语·乡党](https://baike.baidu.com/item/%E8%AE%BA%E8%AF%AD%C2%B7%E4%B9%A1%E5%85%9A/9937507?fr=ge_ala)》：“食饐（yì，食字旁又作饣，因此该字也可以简写）而餲，鱼馁（něi）而肉败，不食。”（饐：腐臭。馁：腐烂。）
+食物经久而变味。《[论语·乡党](https://baike.baidu.com/item/%E8%AE%BA%E8%AF%AD%C2%B7%E4%B9%A1%E5%85%9A/9937507?fr=ge_ala)》：“食饐（yì，食字旁又作饣，因此该字也可以简写𮩞）而餲，鱼馁（něi）而肉败，不食。”（饐：腐臭。馁：腐烂。）
