@@ -30,6 +30,7 @@ export default defineConfig({
       { text: '个人诗词', link: 'https://eveningwater.github.io/my-poem-website' },
       { text: '诗意出生', link: 'https://www.eveningwater.com/birth-poem/index.html' },
       { text: '识典古籍', link: 'https://www.shidianguji.com/' },
+      { text: '抖音汉语', link: 'https://m.douyinhanyu.com/search/' },
       { text: '其它字典网站', link: 'https://nwilb2.smartapps.cn/pages/zi/zi?wd=26a33' },
     ],
     search: {
