@@ -45,5 +45,16 @@ export default defineConfig({
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2024-present eveningwater(夕水)'
     }
-  }
+  },
+  markdown: {
+    config: (md) => {
+      md.renderer.rules.text = (tokens, idx) => {
+        const text = tokens[idx].content;
+
+        const transformedText = text.replace(/o(.*?)o/g, (_match, p1) => `<span class="char-circle">${p1}</span>`);
+
+        return transformedText;
+      };
+    },
+  },
 })
