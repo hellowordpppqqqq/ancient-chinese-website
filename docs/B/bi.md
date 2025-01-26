@@ -4,7 +4,7 @@ search: true # 或 false
 
 ## 逼
 
-（rbīr偪）：
+（readbīread偪）：
 
 ➀ 强迫，威胁。《孟子·万章上》：“而居尧之宫，～尧之子，是篡也，非天与也。”《古诗为焦仲卿妻作》：“我有亲父母，～迫兼弟兄。”
 
@@ -14,7 +14,7 @@ search: true # 或 false
 
 ## 鎞
 
-（rbīr）：
+（readbīread）：
 
 ➀ 首饰名，即钗（釵）。寒山《诗》之三十五：“罗袖盛梅子，金～挑笋芽。”
 
@@ -24,7 +24,7 @@ search: true # 或 false
 
 ## 鼻
 
-（rbír）：
+（readbíread）：
 
 ➀
 
@@ -36,7 +36,7 @@ search: true # 或 false
 
 ## 匕
 
-（rbǐr）：
+（readbǐread）：
 
 ➀ 食器，勺子。《三国志·蜀书·先主传》：“先主方食，失～箸（zhù）。”（箸：筷子。）
 
@@ -46,7 +46,7 @@ search: true # 或 false
 
 ## 比
 
-（rbǐr）：
+（readbǐread）：
 
 ➀
 
