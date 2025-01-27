@@ -36,8 +36,8 @@ const onReadText = (e) => {
 
         // 设置语言为中文
         utterance.lang = 'zh-CN';
-        utterance.rate = 1; // 设置语速，范围是0.1到10
-        utterance.pitch = 2; // 设置音调，范围是0到2
+        // utterance.rate = 0.4; // 设置语速，范围是0.1到10
+        // utterance.pitch = 2; // 设置音调，范围是0到2
 
         window.speechSynthesis.speak(utterance);
     }
