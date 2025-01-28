@@ -51,7 +51,7 @@ export default defineConfig({
       md.renderer.rules.text = (tokens, idx) => {
         const text = tokens[idx].content;
 
-        const transformedText = text.replace(/o(.*?)o/g, (_match, p1) => `<span class="char-circle">${p1}</span>`);
+        const transformedText = text.replace(/o([\u4e00-\u9fa5])o/g, (_match, p1) => `<span class="char-circle">${p1}</span>`);
         const transformedReadText = transformedText.replace(/read(.*?)read/g, (_match, p1) => `<ac-read-text>${p1}</ac-read-text>`);
 
         return transformedReadText;
