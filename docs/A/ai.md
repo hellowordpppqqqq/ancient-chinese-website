@@ -6,7 +6,7 @@ search: true # 或 false
 
 (āi)：
 
-➀ 悲痛，伤心。《[离骚-屈原](https://baike.baidu.com/item/%E7%A6%BB%E9%AA%9A/1045?fr=aladdin)》：“～众芳之芜秽（wú huì）。”（芳：香草。芜秽：荒芜。）㊕ 父母之丧。《[宋书·张敷传](https://baike.baidu.com/item/%E5%AE%8B%E4%B9%A6/1995398?fr=aladdin)》：“居～毁灭，孝道淳至。”
+➀ 悲痛，伤心。《[离骚-屈原](https://baike.baidu.com/item/%E7%A6%BB%E9%AA%9A/1045?fr=aladdin)》：“～众芳之芜秽（wú huì）。”（芳：香草。芜秽：荒芜。）o特o父母之丧。《[宋书·张敷传](https://baike.baidu.com/item/%E5%AE%8B%E4%B9%A6/1995398?fr=aladdin)》：“居～毁灭，孝道淳至。”
 
 ➁ 怜悯，同情。《[韩非子·用人](https://baike.baidu.com/item/%E9%9F%A9%E9%9D%9E%E5%AD%90%C2%B7%E7%94%A8%E4%BA%BA/19828835)》：“忧悲不～怜。”
 
