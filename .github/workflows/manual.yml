@@ -18,6 +18,9 @@ jobs:
           node-version: '18'
 
       - name: Install dependencies
+        run: npm install pnpm -g
+        
+      - name: Install dependencies
         run: pnpm install
 
       - name: Set up Git config
