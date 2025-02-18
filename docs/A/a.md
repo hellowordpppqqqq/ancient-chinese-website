@@ -16,7 +16,7 @@ search: true # 或 false
 
 ➃ ē。偏袒，迎合。《[韩非子·有度](../../example/韩非/韩非子·有度.md)》：“法不～贵。”（贵：指有权势的人。）成语有“刚直不阿、阿谀逢迎”。
 
-➄ 名词词头。多用于亲属名称或人名的前面。《[木兰诗](../../example/南北朝·民歌/木兰诗.md)》：“～姊闻妹来。《[三国志·魏书·武帝纪](https://baike.baidu.com/item/%E4%B8%89%E5%9B%BD%E5%BF%97%C2%B7%E9%AD%8F%E4%B9%A6%C2%B7%E6%AD%A6%E5%B8%9D%E7%BA%AA/14697473)》斐注引《[曹瞒传](https://baike.baidu.com/item/%E6%9B%B9%E7%9E%92%E4%BC%A0/4856624?fr=aladdin)》：“太祖一名吉利，小字～瞒。”
+➄ 名词词头。多用于亲属名称或人名的前面。《[木兰诗](../../example/南北朝·民歌/木兰诗.md)》：“～姊闻妹来。《[三国志·魏书·武帝纪](../../example/陈寿/三国志·魏书·武帝纪.md)》斐注引《[曹瞒传](https://baike.baidu.com/item/%E6%9B%B9%E7%9E%92%E4%BC%A0/4856624?fr=aladdin)》：“太祖一名吉利，小字～瞒。”
 
 ➅ hē（呵）。通“呵”，斥责。《[老子](https://baike.baidu.com/item/%E8%80%81%E5%AD%90/5448?fr=aladdin)》：“唯之与～，相去几何？”
 
