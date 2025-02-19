@@ -1,4 +1,4 @@
-name: Deploy my-poem-website
+name: Deploy ancient-chinese-website
 
 on:
   push:
