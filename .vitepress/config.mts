@@ -25,13 +25,23 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '在线字典', link: '/docs/A/a' },
       { text: '文言文示例', link: '/example/韩愈/进学解' },
-      { text: '大学课程', link: 'https://eveningwater.github.io/undergraduate-course/' },
-      { text: '个人小说', link: 'https://www.eveningwater.com/novel-website/index.html' },
-      { text: '个人诗词', link: 'https://eveningwater.github.io/my-poem-website' },
-      { text: '诗意出生', link: 'https://www.eveningwater.com/birth-poem/index.html' },
-      { text: '识典古籍', link: 'https://www.shidianguji.com/' },
-      { text: '抖音汉语', link: 'https://m.douyinhanyu.com/search/' },
-      { text: '其它字典网站', link: 'https://nwilb2.smartapps.cn/pages/zi/zi?wd=26a33' },
+      {
+        text: "关于",
+        items: [
+          { text: '大学课程', link: 'https://eveningwater.github.io/undergraduate-course/' },
+          { text: '个人小说', link: 'https://www.eveningwater.com/novel-website/index.html' },
+          { text: '个人诗词', link: 'https://eveningwater.github.io/my-poem-website' },
+          { text: '诗意出生', link: 'https://www.eveningwater.com/birth-poem/index.html' },
+        ]
+      },
+      {
+        text: '其它',
+        items: [
+          { text: '识典古籍', link: 'https://www.shidianguji.com/' },
+          { text: '抖音汉语', link: 'https://m.douyinhanyu.com/search/' },
+          { text: '其它字典网站', link: 'https://nwilb2.smartapps.cn/pages/zi/zi?wd=26a33' },
+        ]
+      }
     ],
     search: {
       provider: 'local',
