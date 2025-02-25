@@ -26,7 +26,7 @@ export default defineConfig({
       { text: '在线字典', link: '/docs/A/a' },
       { text: '文言文示例', link: '/example/韩愈/进学解' },
       {
-        text: "关于",
+        text: "关于个人",
         items: [
           { text: '大学课程', link: 'https://eveningwater.github.io/undergraduate-course/' },
           { text: '个人小说', link: 'https://www.eveningwater.com/novel-website/index.html' },
