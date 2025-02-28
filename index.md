@@ -25,3 +25,5 @@ features:
 <iframe src="https://www.eveningwater.com/birth-poem/index.html" class="iframe" style="height:100vh;"></iframe>
 
 - [参考字典:古汉语常用字字典第 10 版](https://baike.baidu.com/item/%E5%8F%A4%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E5%AD%97%E5%85%B8/5593469?fr=aladdin)。
+
+<preview-pdf url="./古汉语常用字字典(2005年版).pdf" />

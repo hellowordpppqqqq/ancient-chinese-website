@@ -3,6 +3,7 @@ import "element-plus/theme-chalk/index.css";
 import DefaultTheme from "vitepress/theme";
 import ReadText from "../components/read-text.vue";
 import * as ElementPlusIconsVue from '@element-plus/icons-vue';
+import PreviewPDF from "../components/preview-pdf.vue";
 
 export default {
   extends: DefaultTheme,
@@ -12,5 +13,6 @@ export default {
       app.component(key, component)
     }
     app.component("ac-read-text", ReadText);
+    app.component("ac-preview-pdf", PreviewPDF);
   },
 };
