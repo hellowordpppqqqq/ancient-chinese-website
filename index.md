@@ -24,5 +24,5 @@ features:
 
 <iframe src="https://www.eveningwater.com/birth-poem/index.html" class="iframe" style="height:100vh;"></iframe>
 
-<!-- - <ac-preview-pdf url="https://www.eveningwater.com/ancient-chinese-website/古汉语常用字字典(2005年版).pdf" text="参考字典:古汉语常用字字典第 10 版" /> -->
+- <ac-preview-pdf url="./古汉语常用字字典(2005年版).pdf" text="参考字典:古汉语常用字字典第 10 版" />
 
