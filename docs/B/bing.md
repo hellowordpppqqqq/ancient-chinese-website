@@ -25,3 +25,39 @@ search: true # 或 false
 ## 炳
 
 （bǐng）：
+
+## 柄
+
+（bǐng）：
+
+## 秉
+
+（bǐng）：
+
+## 屏
+
+（bǐng）：
+
+## 禀
+
+（bǐng）：
+
+## 鞞
+
+（bǐng）：
+
+## 并<sup>1</sup>
+
+（bìng）：
+
+## 并<sup>2</sup>
+
+（bìng）：
+
+## 并<sup>3</sup>
+
+（bìng）：
+
+## 病
+
+（bìng）：
