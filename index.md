@@ -23,3 +23,7 @@ features:
 ---
 
 <iframe src="https://www.eveningwater.com/birth-poem/index.html" class="iframe" style="height:100vh;"></iframe>
+
+<!-- - <ac-preview-pdf url="./古汉语常用字字典(2005年版).pdf" text="参考字典:古汉语常用字字典第 10 版" /> -->
+
+- 参考字典:[古汉语常用字字典第 10 版](<https://www.eveningwater.com/ancient-chinese-website/%E5%8F%A4%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E5%AD%97%E5%85%B8(2005%E5%B9%B4%E7%89%88).pdf>)。
