@@ -7,7 +7,7 @@
             <div class="pinyin">{{ props?.explain?.pinyin }}</div>
             <div class="explain" v-for="(item, index) in props?.explain?.explain" :key="`${item}-${index}`">
                 <div>{{ index + 1 }}.{{ item?.explain }}</div>
-                <el-text size="small">内容来源:《{{ item?.source }}》</el-text>
+                <el-text size="small" v-if="item?.source">内容来源:《{{ item?.source }}》</el-text>
             </div>
             <el-link :href="props?.explain?.more" target=“__blank” style="margin-top:10px;">
                 查看更多
