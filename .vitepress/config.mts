@@ -95,7 +95,7 @@ export default defineConfig({
           (_match, p1) => `<span class="char-circle">${p1}</span>`
         );
         const transformedReadText = transformedText.replace(
-          /read\s+(.*?)\s+read/g,
+          /read(.*?)read/g,
           (_match, p1) => `<ac-read-text>${p1}</ac-read-text>`
         );
 
