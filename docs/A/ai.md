@@ -6,9 +6,7 @@ search: true # 或 false
 
 (āi)：
 
-
 ➀ 悲痛，伤心。《[离骚-屈原](../../example/屈原/离骚.md)》：“～众芳之芜秽（wú huì）。”（芳：香草。芜秽：荒芜。）㊕ 父母之丧。《[宋书·张敷传](https://baike.baidu.com/item/%E5%AE%8B%E4%B9%A6/1995398?fr=aladdin)》：“居～毁灭，孝道淳至。”
-
 
 ➁ 怜悯，同情。《[韩非子·用人](../../example/韩非/韩非子·用人.md)》：“忧悲不～怜。”
 
@@ -26,9 +24,9 @@ search: true # 或 false
 
 ➀ 应声。《[方言](http://www.baike.com/wiki/%E3%80%8A%E6%96%B9%E8%A8%80%E3%80%8B)》十：“～，殹（yī）上言下，然也。”
 
-➁ 叹息。《[九章·涉江-屈原](https://baike.baidu.com/item/%E4%B9%9D%E7%AB%A0%C2%B7%E6%B6%89%E6%B1%9F/4309935?fr=aladdin)》：“乘鄂渚而反顾兮，～秋冬之绪风。”
+➁ 叹息。《[九章·涉江-屈原](../../example/屈原/九章·涉江.md)》：“乘鄂渚而反顾兮，～秋冬之绪风。”
 
-➂ [欸乃（ǎinǎi）] 象声词。摇橹声。《[渔翁-柳宗元](https://baike.baidu.com/item/%E6%B8%94%E7%BF%81/22257457?fr=aladdin)》诗：“烟销日出不见人，～～一声山水绿。”
+➂ [欸乃（ǎinǎi）] 象声词。摇橹声。《[渔翁-柳宗元](../../example/柳宗元/渔翁.md)》诗：“烟销日出不见人，～～一声山水绿。”
 
 ## 騃
 
@@ -50,7 +48,7 @@ search: true # 或 false
 
 (ái)：
 
-➀ 洁白。《[白头吟-汉乐府诗](https://baike.baidu.com/item/%E7%99%BD%E5%A4%B4%E5%90%9F/6866957?fr=aladdin)》：“～如山上雪，皎若云间月。”
+➀ 洁白。《[白头吟-汉乐府诗](../../example/卓文君/白头吟.md)》：“～如山上雪，皎若云间月。”
 
 [皑皑]形容霜雪洁白。《[遂初赋-刘歆](https://baike.baidu.com/item/%E9%81%82%E5%88%9D%E8%B5%8B/10058496?fr=aladdin)》：“漂积雪之～～兮。”
 
@@ -160,7 +158,7 @@ search: true # 或 false
 
 昏暗。谢瞻《[王抚军庾西阳集别](https://baike.baidu.com/item/%E7%8E%8B%E6%8A%9A%E5%86%9B%E5%BA%BE%E8%A5%BF%E9%98%B3%E9%9B%86%E5%88%AB%E6%97%B6%E4%B8%BA%E8%B1%AB%E7%AB%A0%E5%A4%AA%E5%AE%88%E5%BA%BE%E8%A2%AB%E5%BE%B5%E8%BF%98%E4%B8%9C%E8%AF%97/50569777?fr=ge_ala)》诗：“夕阴～平陆。” [暧暧]昏暗不明的样子。屈原《离骚》：“时～～其将罢（pí）兮（时间已晚，人也感到疲倦了。罢通“疲”。）
 
-> 备注: 时～～其将罢（pí）兮的翻译来自古汉语常用字字典第10版。[百度汉语](https://hanyu.baidu.com/shici/detail?anchor=yiwen&from=aladdin&pid=9ad3463ac8944527947d959b7c8b1f8e)翻译成：“日色渐暗时间已经晚了。”
+> 备注: 时～～其将罢（pí）兮的翻译来自古汉语常用字字典第 10 版。[百度汉语](https://hanyu.baidu.com/shici/detail?anchor=yiwen&from=aladdin&pid=9ad3463ac8944527947d959b7c8b1f8e)翻译成：“日色渐暗时间已经晚了。”
 
 ## 隘
 
